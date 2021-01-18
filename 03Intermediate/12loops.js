@@ -34,7 +34,7 @@ const myStates = [
 // Added a do-while loop
 // Added for loop condition
 
-let i = 0;
+let i = 10;
 
  do {
     console.log(myStates[i]); // do-while loop executes the condition atleast once
