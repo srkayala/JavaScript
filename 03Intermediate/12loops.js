@@ -31,6 +31,7 @@ const myStates = [
 //     console.log(myStates[i]);
 //     i++
 // }
+// Added a do-while loop
 
 let i = 0;
 
