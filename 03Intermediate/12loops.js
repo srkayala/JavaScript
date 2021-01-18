@@ -32,6 +32,7 @@ const myStates = [
 //     i++
 // }
 // Added a do-while loop
+// Added for loop condition
 
 let i = 0;
 
