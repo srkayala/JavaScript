@@ -5,6 +5,7 @@ var user = {
     loginCount : 32,
     facebookSignedIn : true,
     githubSignedIn : true,
+    googleSignedIn : false,
     courseList : [],
     buyCourse : function (courseName) {
         this.courseList.push(courseName);
