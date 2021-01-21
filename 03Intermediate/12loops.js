@@ -34,9 +34,9 @@ const myStates = [
 // Added a do-while loop
 // Added for loop condition
 
-let i = 10;
+let i = 0; // do-while loop executes the condition atleast once
 
  do {
-    console.log(myStates[i]); // do-while loop executes the condition atleast once
-    i++
+    console.log(myStates[i]); 
+    i++;
 } while( i < myStates.length)
