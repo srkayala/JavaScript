@@ -45,3 +45,4 @@ function sayName(){
 sayName();
 console.log(name);
 
+// Vani added commented line
